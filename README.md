@@ -1,2 +1,2 @@
-# ios-course-cuper-cool-app
+# ios-course-super-cool-app
 This is the first app built in swift
